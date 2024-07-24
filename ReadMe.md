@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de back-end, análise e desenvolvimento de sistemas.<br>
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, dinâmico e sempre disposto a aprender. Tenho habilidades em Java, PHP e CSS, e obtive nota máxima em um projeto Back-end realizado em grupo, demonstrando minha capacidade de trabalho em equipe. Estou à procura de oportunidades para aplicar e expandir meus conhecimentos na área de TI, com foco em soluções inovadoras e eficientes.<br>
 
 
 ## 🌐 Socials:
@@ -20,6 +20,9 @@ Sou estudante de back-end, análise e desenvolvimento de sistemas.<br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vitor-R-Souza&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vitor-R-Souza&icon=5&color=1)](https://visitcount.itsvg.in)
