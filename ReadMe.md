@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, com formação prevista para 2025<br>
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, com formação prevista para 2025.<br>
 
 
 ## 🌐 Socials:
