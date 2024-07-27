@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, dinâmico e sempre disposto a aprender. Tenho habilidades em Java, PHP e CSS, e obtive nota máxima em um projeto Back-end realizado em grupo, demonstrando minha capacidade de trabalho em equipe. Estou à procura de oportunidades para aplicar e expandir meus conhecimentos na área de TI, com foco em soluções inovadoras e eficientes.<br>
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, com formação prevista para 2025<br>
 
 
 ## 🌐 Socials:
